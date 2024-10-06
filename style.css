@@ -54,7 +54,7 @@ header {
 }
 
 .nav_opc:hover {
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(215, 215, 215);
     cursor: pointer;
     border-radius: 100px;
 }
